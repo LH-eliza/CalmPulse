@@ -28,7 +28,7 @@ The project is a mix of hardware and software. It is a portable device and mobil
 - **Arduino/Raspberry Pi**: For prototyping and initial development of the hardware components.
 - **Xcode**: For iOS app development.
 - **Figma/Sketch**: For designing the app interface.
-- **Firebase** *(Optional)*: For secure cloud storage and real-time database.
+- **Firebase**: For secure cloud storage and real-time database.
 - **GitHub Actions**: For continuous integration and deployment.
 
 
