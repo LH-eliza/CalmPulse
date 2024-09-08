@@ -31,15 +31,4 @@
 - **Firebase** *(Optional)*: For secure cloud storage and real-time database.
 - **GitHub Actions**: For continuous integration and deployment.
 
-## Installation & Setup
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/CalmPulse.git
-    ```
-2. **Hardware Setup**:
-   - Assemble the hardware components as per the schematics.
-   - Flash the firmware onto the microcontroller.
-3. **iOS App**:
-   - Open the Xcode project in the `iOS-App` directory.
-   - Connect your iOS device and build the app.
 
