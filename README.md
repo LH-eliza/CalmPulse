@@ -12,7 +12,7 @@
 ## Technologies Used
 ### Hardware
 - **Heart Rate Sensor**: High-precision sensor to monitor heart rate.
-- **Galvanic Skin Response (GSR) Sensor** *(Optional)*: Measures skin conductance as an indicator of stress.
+- **Galvanic Skin Response (GSR) Sensor**: Measures skin conductance as an indicator of stress.
 - **Temperature Sensor**: Detects changes in body temperature associated with stress.
 - **Bluetooth Module**: For connectivity with Apple Watch or smartphones.
 - **Battery and Power Management**: Ensures long-lasting and portable use.
