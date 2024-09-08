@@ -1,5 +1,5 @@
 
-**CalmPulse** is a portable device and mobile app designed to monitor and manage stress levels in real-time. By detecting irregular heart rate peaks through sensors or integration with an Apple Watch, CalmPulse helps users recognize signs of stress and provides personalized strategies to deal with it. This project aims to support mental well-being through proactive interventions, real-time notifications, and ongoing data analysis.
+The project is a mix of hardware and software. It is a portable device and mobile app designed to monitor and manage stress levels in real-time. By detecting irregular heart rate peaks through sensors or integration with an Apple Watch, the device helps users recognize signs of stress and provides personalized strategies to deal with it. This project aims to support mental well-being through proactive interventions, real-time notifications, and ongoing data analysis.
 
 ## Features
 - **Heart Rate Monitoring**: Continuously tracks heart rate to detect irregularities indicating stress or anxiety.
